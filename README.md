@@ -1,6 +1,6 @@
 ### Getting started
 
-First things first, you'll need to fork or clone this repository, and run the install command of your choosing (preferrably Yarn):
+First things first, you'll need to fork or clone this repository, and run the install command of your choosing :
 
 ```
 yarn install
@@ -9,7 +9,7 @@ yarn install
 
 npm install
 ```
-And that's really about it (see, I said it was simple!). To fire up the server and have it do stuff, you'll need to start it with the familiar command:
+You'll need to start it with the familiar command:
 
 ```
 yarn start
